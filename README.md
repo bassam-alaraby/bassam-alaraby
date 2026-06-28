@@ -2,7 +2,7 @@
 
 **Computer Science Student @ Menoufia University (2025–2029)**
 
-I enjoy building real projects to learn how software works under the hood. Currently focused on backend web development with Python and Flask while exploring cybersecurity and computer science fundamentals.
+I enjoy building real projects to learn how software works under the hood. Currently focused on backend web development while exploring cybersecurity and computer science fundamentals.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4K)](https://bassamalaraby.me)
 [![CV](https://img.shields.io/badge/CV-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://bassamalaraby.me/assets/documents/bassam-tarek-alarabi-cv.pdf)
