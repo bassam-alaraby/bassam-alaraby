@@ -80,7 +80,7 @@ Collection of problem sets and projects completed while studying `Harvard CS50x`
 VORTEX is my CS50x final project, a Flask-based e-commerce platform built as the final project for the course. [**View repository →**](https://github.com/bassam-alaraby/vortex)
 
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bassam-alaraby/cs50x-solutions)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bassam-alaraby/cs50-solutions/x)
 
 ---
 
