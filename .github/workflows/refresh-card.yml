@@ -52,5 +52,16 @@ jobs:
             echo "Card unchanged — nothing to commit."
           else
             git commit -m "chore: refresh gh-ascii card"
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -lt 3 ]; then
+                echo "Push failed (attempt $attempt/3). Retrying in 5 seconds..."
+                sleep 5
+              else
+                echo "Push failed after 3 attempts."
+                exit 1
+              fi
+            done
           fi
