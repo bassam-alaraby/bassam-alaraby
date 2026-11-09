@@ -13,6 +13,6 @@
 ## Get in touch
 
 - Portfolio: [bassamalaraby.me](https://bassamalaraby.me)
-- CV: [Download My CV](https://bassamalaraby.me/assets/documents/bassam-tarek-alarabi-cv.pdf)
+- CV: [bassam-tarek-alarabi-cv.pdf](https://bassamalaraby.me/assets/documents/bassam-tarek-alarabi-cv.pdf)
 - Email: [bassamalarabii@gmail.com](mailto:bassamalarabii@gmail.com)
 - LinkedIN: [linkedin.com/in/bsam-alaraby](https://www.linkedin.com/in/bsam-alaraby/)
