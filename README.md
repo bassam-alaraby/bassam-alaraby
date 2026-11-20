@@ -1,18 +1,47 @@
-# Hi, I'm Bassam 👋
+### `~ $ whoami`
 
-**Computer Science Student @ Menoufia University (2025 - 2029)**
+```text
+bassam tarek alaraby — computer science student @ menoufia university (2025 - 2029)
+location    shibin el-kom, egypt
+site        bassamalaraby.me
+github      github.com/bassam-alaraby
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="bassam-alaraby's GitHub profile" src="dark_mode.svg" />
-</picture>
+### `~ $ cat stack.txt`
 
----
+```text
+html        ████████████████████  27%
+python      ███████████████████   25%
+javascript  ████████████████      21%
+css         ██████████████        19%
+c           █████                  7%
+shell       █                      2%
+```
 
-## Get in touch
+### `~ $ ls -t projects | head -5`
 
-- Portfolio: [bassamalaraby.me](https://bassamalaraby.me)
-- CV: [bassam-tarek-alarabi-cv.pdf](https://bassamalaraby.me/assets/documents/bassam-tarek-alarabi-cv.pdf)
-- Email: [bassamalarabii@gmail.com](mailto:bassamalarabii@gmail.com)
-- LinkedIN: [linkedin.com/in/bsam-alaraby](https://www.linkedin.com/in/bsam-alaraby/)
+```text
+2026-11-06  hidden-wifi-omarchy
+2026-11-03  qr-code
+2026-10-29  cs50-solutions
+2026-10-10  zadloop-bin
+```
+
+### `~ $ stats`
+
+```text
+repositories   16
+stars          8
+forks          -
+followers      6
+commits        -
+PRs            -
+issues         -
+contributions  1,410 (last 12 months)
+```
+
+### `~ $ contact`
+
+Website: [bassamalaraby.me](https://bassamalaraby.me) <br>
+LinkedIN: [linkedin.com/in/bsam-alaraby](https://www.linkedin.com/in/bsam-alaraby/) <br>
+Email: [bassamalarabii@gmail.com](mailto:bassamalarabii@gmail.com)
