@@ -11,10 +11,10 @@ github      github.com/bassam-alaraby
 
 ```text
 html        ████████████████████  27%
-python      ██████████████████    25%
+python      ███████████████████   25%
 javascript  ████████████████      21%
-css         ██████████████        19%
-c           █████                  7%
+css         ██████████████        18%
+c           █████                  6%
 shell       █                      2%
 ```
 
@@ -35,10 +35,10 @@ repositories   17
 stars          8
 forks          1
 followers      6
-commits        1,370
+commits        1,376
 PRs            4
 issues         2
-contributions  1,410 (last 12 months)
+contributions  1,416 (last 12 months)
 ```
 
 ### `~ $ contact`
